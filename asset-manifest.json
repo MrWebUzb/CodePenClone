@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/CodePenClone/static/css/main.575ea778.chunk.css",
+    "main.js": "/CodePenClone/static/js/main.fa9317bb.chunk.js",
+    "main.js.map": "/CodePenClone/static/js/main.fa9317bb.chunk.js.map",
+    "runtime-main.js": "/CodePenClone/static/js/runtime-main.e44751eb.js",
+    "runtime-main.js.map": "/CodePenClone/static/js/runtime-main.e44751eb.js.map",
+    "static/css/2.edb458bf.chunk.css": "/CodePenClone/static/css/2.edb458bf.chunk.css",
+    "static/js/2.39617c20.chunk.js": "/CodePenClone/static/js/2.39617c20.chunk.js",
+    "static/js/2.39617c20.chunk.js.map": "/CodePenClone/static/js/2.39617c20.chunk.js.map",
+    "index.html": "/CodePenClone/index.html",
+    "precache-manifest.faf655b5bb165df98dc70a0ef93301a9.js": "/CodePenClone/precache-manifest.faf655b5bb165df98dc70a0ef93301a9.js",
+    "service-worker.js": "/CodePenClone/service-worker.js",
+    "static/css/2.edb458bf.chunk.css.map": "/CodePenClone/static/css/2.edb458bf.chunk.css.map",
+    "static/css/main.575ea778.chunk.css.map": "/CodePenClone/static/css/main.575ea778.chunk.css.map",
+    "static/js/2.39617c20.chunk.js.LICENSE.txt": "/CodePenClone/static/js/2.39617c20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e44751eb.js",
+    "static/css/2.edb458bf.chunk.css",
+    "static/js/2.39617c20.chunk.js",
+    "static/css/main.575ea778.chunk.css",
+    "static/js/main.fa9317bb.chunk.js"
+  ]
+}
