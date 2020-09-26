@@ -57,7 +57,7 @@ const Editor = (props) => {
           matchBrackets: true,
           autoCloseBrackets: true,
           extraKeys: {
-            Tab: "autocomplete",
+            "Ctrl+Space": "autocomplete",
           },
         }}
         editorDidMount={(editor) => {
